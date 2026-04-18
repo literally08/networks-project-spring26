@@ -1,6 +1,7 @@
 
 
-1. Which city has the highest inefficiency ratio? 
+1. Which city has the highest inefficiency ratio?
+   
 From my results, London had the highest inefficiency ratio at about 2.49.
 Even though London is much closer than many other cities, its RTT is significantly
 higher than the theoretical minimum. 
@@ -14,7 +15,8 @@ shortest route. This explains why London has a relatively high inefficiency rati
 and its strong infrastructure.
 
 
-2. Which city is closest to the theoretical minimum? 
+2. Which city is closest to the theoretical minimum?
+   
 Mumbai is closest to the theoretical minimum, with a ratio of about 1.02.
 This means the measured RTT is very close to the physical distance-based limit.
 
@@ -28,6 +30,7 @@ near the speed-of-light limit.
 
 
 3. Why does Africa route through Europe?
+   
 Even though Lagos is in Africa, its traffic is often routed through Europe first. This is because much of Africa’s internet
 infrastructure is previously connected through European exchange points rather than directly between regions. Many submarine
 cables from Africa land in Europe, and there are fewer direct high-capacity interconnections within Africa itself.
